@@ -1,1 +1,8 @@
-dfsdgds
+while ping ip address in command prompt we get
+32 bytes of data and time = 1ms and TTl= 127
+ping statistics for ip add:
+where packets=4 and in this we received 3 packets and one lost with apx 
+round trip of minimum 0ms and maximum 1ms means here loss is 25%
+but again when we ping ip add 
+in ping stats we receive all 4 packets and there is 0% loss
+
