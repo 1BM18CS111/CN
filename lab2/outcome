@@ -1,4 +1,5 @@
-while ping ip address in command prompt we get
+in this topology when ping in pc 1 we get ie.
+ping ip address in command prompt we get
 32 bytes of data and time = 1ms and TTl= 127
 then if we see the ping statistics for ip add:
 then there is 4 packets and in this we received 3 packets and one lost with apx 
