@@ -1,4 +1,4 @@
-in this topology when ping from pc 1 to pc 2 we get reply from pc2 and when we
+in this topology when we ping from pc 1 to pc 2 we get reply from pc2 and when we
 ping ip address in command prompt we get
 32 bytes of data and time = 1ms and TTl= 127
 then if we see the ping statistics for ip add:
