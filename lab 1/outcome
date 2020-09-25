@@ -1,0 +1,5 @@
+In this topology while stimulation we send pdu from one pc to another pc and  
+in this we connect one switch and two hub to send message 
+like when pc1 send message to pc 2 it will first send message to hub and 
+then switch and then pc 2 and if it reject the message it will again go to hub
+and then switch and it will go simultaneously
